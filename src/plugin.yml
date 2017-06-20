@@ -1,0 +1,8 @@
+name: RollPlugin
+main: com.gmail.pieterjansegers1.rollplugin.Main
+version: 1.0
+author: Segers Pieterjan
+commands:
+   roll:
+      description: Roll a randomly generated die.
+      usage: Type "/roll ?" for more information.
